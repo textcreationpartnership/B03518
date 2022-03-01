@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gallant news of late I bring, tidings of chusing now a King, whereby true subjects may rejoice in chusing them so sweet a choyce that love and peace may so agree, to end the days of misery, To the tune of, Royal news, royal news.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03518</idno>
+            <idno type="STC">Wing G172B</idno>
+            <idno type="STC">ESTC R177469</idno>
+            <idno type="EEBO-CITATION">47012455</idno>
+            <idno type="OCLC">ocm 47012455</idno>
+            <idno type="VID">174422</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174422)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2687:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gallant news of late I bring, tidings of chusing now a King, whereby true subjects may rejoice in chusing them so sweet a choyce that love and peace may so agree, to end the days of misery, To the tune of, Royal news, royal news.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Grove ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 3 illustrations.</note>
+                  <note>Caption title.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>"Entered according to order."</note>
+                  <note>Right half sheet contains: "The second Part to the same Tune."</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174422:1"/>
+            <!-- PDF PAGE 3 -->
+            <argument>
+               <l>Gallant News of late I bring,</l>
+               <l>Tidings of chuſing now a King,</l>
+               <l>Whereby true Subjects may rejoice</l>
+               <l>In chuſing them ſo ſweet a choyce</l>
+               <l>That love and peace may ſo agree,</l>
+               <l>To end the days of miſery,</l>
+            </argument>
+            <opener>To the Tune of, Royal News, Royal News.</opener>
+            <div n="2" type="part">
+               <p>
+                  <figure/>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THe Prince he will come ſoon,</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>To inioy his Crown</l>
+                  <l>With glory and renown,</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>If they can agree</l>
+                  <l>In love and unity,</l>
+                  <l>Then we all ſhall ſee</l>
+                  <l>An end of miſery,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>gallant news,</hi>
+                     </l>
+                     <l>
+                        <hi>gallant news,</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Army doth conſent</l>
+                  <l>
+                     <hi>gallant news, &amp;c.</hi>
+                  </l>
+                  <l>With a Free Parliament</l>
+                  <l>All dangers to prevent,</l>
+                  <l>
+                     <hi>gallant news</hi>
+                  </l>
+                  <l>To ioyn with heart and hand</l>
+                  <l>For the good of <hi>England</hi>
+                  </l>
+                  <l>The Goſpel to defend,</l>
+                  <l>God ſend that happy end</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>gallant news, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then let us all reioice</l>
+                  <l>
+                     <hi>gallant news &amp;c.</hi>
+                  </l>
+                  <l>Since they have made a choice,</l>
+                  <l>With heart and eke with voice,</l>
+                  <l>
+                     <hi>gallant news</hi>
+                  </l>
+                  <l>In doing of that thing</l>
+                  <l>Which will us comfort bring</l>
+                  <l>In chuſing of a King,</l>
+                  <l>We will reioyce and ſing</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>gallant news, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then trading will be rife,</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>And we ſhall have no ſtrife</l>
+                  <l>But lead a quiet life,</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>We ſhall not be ſo feaſt,</l>
+                  <l>For to be ſo oppreſt,</l>
+                  <l>But we ſhall live at reſt,</l>
+                  <l>The times will be at beſt,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>gallant news,</hi>
+                     </l>
+                     <l>
+                        <hi>gallant news.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:174422:1"/>
+               <!-- PDF PAGE 3 -->
+               <head>The ſecond Part</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THe poor that lives in want</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>They will know no ſcant</l>
+                  <l>
+                     <hi>England</hi> ſuch good will plant,</l>
+                  <l>
+                     <hi>gallant news</hi>
+                  </l>
+                  <l>Charity will prove ſo great</l>
+                  <l>To feed the needy with meat</l>
+                  <l>When <hi>Charls</hi> is on his ſeat</l>
+                  <l>As King and Ruler meet,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>gallant news,</hi>
+                     </l>
+                     <l>
+                        <hi>gallant news.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And love will flouriſh ſo</l>
+                  <l>
+                     <hi>gallant news, &amp;c.</hi>
+                  </l>
+                  <l>That we ſhall know no wo</l>
+                  <l>Between our friend and foe,</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>Then <hi>England</hi> may ſay,</l>
+                  <l>It was a happy day,</l>
+                  <l>That <hi>Charls</hi> may bear the ſway,</l>
+                  <l>Wherein ſuch comfort lay,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>gallant news, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Gentry hath been ſad,</l>
+                  <l>
+                     <hi>but gallant news, &amp;c.</hi>
+                  </l>
+                  <l>Which will make them glad,</l>
+                  <l>Such comfort's to be had,</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>VVhen neither ſeſs nor lay</l>
+                  <l>For them at all to pay,</l>
+                  <l>At home they may ſtay,</l>
+                  <l>They need to fear no fray,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>gallant news, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then may the Plow-man plow,</l>
+                  <l>
+                     <hi>gallant news, &amp;c.</hi>
+                  </l>
+                  <l>And after he may ſow,</l>
+                  <l>To pay where he doth owe,</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>And then he need not fear</l>
+                  <l>No dangers to come near,</l>
+                  <l>But to love his Dear,</l>
+                  <l>And drink good ale and bear,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>gallant news, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>As formerly were done,</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>Before theſe wars begun</l>
+                  <l>Till the riſing of the Sun,</l>
+                  <l>
+                     <hi>gallant news,</hi>
+                  </l>
+                  <l>By him we ſoon ſhall ſee</l>
+                  <l>An end of miſery,</l>
+                  <l>If once we do agree</l>
+                  <l>In love and unity,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>gallant news,</hi>
+                     </l>
+                     <l>
+                        <hi>gallant news.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for Francis Grove on Snow-hill.</p>
+         </div>
+         <div type="license">
+            <p>Entered according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
